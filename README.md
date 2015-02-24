@@ -1,2 +1,2 @@
 # lcd
-Python code for Raspberry Pi 2 and 16x2 RGB LCD display.
+Python code for Raspberry Pi 2 and Adafruit 16x2 Negative RGB LCD display.
